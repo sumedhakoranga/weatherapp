@@ -1,7 +1,16 @@
 # Weather App
+<p align="center">
+  <img src="https://github.com/sumedhakoranga/weatherapp/assets/124348875/7ad1ffd2-0b2e-4956-af70-c95881bea9fa" alt="Cloudy Weather" width="500">
+</p>
+
+
 
 ## Introduction
 This React-based Weather App allows users to search for real-time weather conditions in any city. One of the coolest features is its dynamic display of weather-appropriate GIFs, making the user interface engaging and fun.
+<p align="center">
+  <img src="https://github.com/sumedhakoranga/weatherapp/assets/124348875/5ed324a1-bf21-4bd1-8572-6474c547db52" alt="Clear Sky GIF" height="300">
+</p>
+
 
 
 ## Features
